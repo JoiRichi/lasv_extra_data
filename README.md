@@ -36,6 +36,6 @@ All Google Colab notebooks are linked to the files they require to run. To trace
 
 - Notebooks are intended to be run in Colab.
 - Each notebook contains links or paths to the required inputs and produces intermediate and final outputs used in the manuscript.
-- The branches of this repro may also contain interesting workflows
+- The branches of this repo may also contain interesting workflows
 - Please check lasv.json(see file above) using  https://auspice.us for the GPC tree decribed in manuscript.
 
