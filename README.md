@@ -1,4 +1,4 @@
-# Sequence-to-Structure Insights into Lassa Virus Population-Level Biophysical Properties and Glycoprotein Structure Catalogue
+# Sequence to Structure Insights into Lassa Virus Population-Level Biophysical Properties and Glycoprotein Structure Catalogue
 
 This repository contains the analysis notebooks and supporting files used to generate the results reported in the manuscript.
 
