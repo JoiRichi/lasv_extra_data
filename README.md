@@ -2,7 +2,7 @@
 
 This repository contains the analysis notebooks and supporting files used to generate the results reported in the manuscript.
 
-All Google Colab notebooks are linked to the files they require to run. To trace intermediate files and outputs, follow how each notebook loads/exports data in Colab and then locate the corresponding files in this GitHub repository (an a few others).
+All Google Colab notebooks are linked to the files they require to run. To trace intermediate files and outputs, follow how each notebook loads/exports data in Colab and then locate the corresponding files in this GitHub repository (and a few others).
 
 ---
 
